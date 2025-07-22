@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratyush-2003
 - 👀 I’m interested in exploring areas like software development, data structures, and web technologies.
-- 🌱 I’m currently learning MCA.
+- 🌱 I’m currently persuing MCA.
 - 💞️ I’m looking to collaborate on: open-source projects, app development, or any innovative tech solutions that help solve real-world problems!
 - 📫 How to reach me:[pratyushbarick47@gmail.com]
 - ⚡ Fun fact: I can write code while binge-watching a series!
